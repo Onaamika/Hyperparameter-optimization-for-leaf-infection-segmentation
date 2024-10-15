@@ -1,4 +1,5 @@
 # Hyperparameter-optimization-for-leaf-infection-segmentation
+![image](https://github.com/user-attachments/assets/3057dc67-54b9-44a0-bcb2-2f01924ed8b8)
 
 A novel approach for hyperparameter optimization in leaf disease segmentation is presented, utilizing integration techniques. This method enhances the precision of leaf disease diagnosis using the application of machine learning algorithms. By optimizing hyperparameters and incorporating integration methods such as bagging, boosting, and stacking, the model's robustness and segmentation accuracy are significantly improved. Key aspects include refining learning rates, batch sizes, and network architecture to boost performance. The primary goal is to accurately identify diseased regions on leaves, ensuring the model's efficacy across various conditions. This approach advances agricultural technology by providing early detection tools for plant diseases, thereby supporting food security and improving agricultural outcomes.
 
